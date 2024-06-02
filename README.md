@@ -1,23 +1,16 @@
-# Object-Oriented Programming through Java
+# Object-Oriented Programming through <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="50"/>
+---
 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
-
-## Table of Contents
+### Table of Contents
 
 1. [Introduction to Object-Oriented Programming](#introduction-to-object-oriented-programming)
-2. [Java Basics](#java-basics)
-3. [Classes and Objects](#classes-and-objects)
-4. [Inheritance](#inheritance)
-5. [Polymorphism](#polymorphism)
-6. [Encapsulation](#encapsulation)
-7. [Abstraction](#abstraction)
-8. [Interfaces](#interfaces)
-9. [Exception Handling](#exception-handling)
-10. [File I/O in Java](#file-io-in-java)
-11. [Java Collections Framework](#java-collections-framework)
-12. [Multithreading](#multithreading)
-13. [Java Networking](#java-networking)
-14. [Java Utilities (java.util)](#java-utilities-javautil)
+2. [Classes and Objects](#classes-and-objects)
+3. [Inheritance](#inheritance)
+4. [Polymorphism](#polymorphism)
+5. [Encapsulation](#encapsulation)
+6. [Abstraction](#abstraction)
+7. [Interfaces](#interfaces)
+
 
 ---
 
