@@ -15,7 +15,6 @@
 ---
 
 ### [Introduction to Object-Oriented Programming]()
-![OOP](https://img.icons8.com/color/48/000000/object.png)
 
 - Definition and concepts of OOP
 - Advantages of OOP
@@ -24,7 +23,6 @@
 ---
 
 ### [Classes and Objects]()
-![Class](https://img.icons8.com/color/48/000000/class.png)
 
 - Defining a Class
 - Creating Objects
@@ -36,7 +34,6 @@
 ---
 
 ### [Inheritance]()
-![Inheritance](https://img.icons8.com/color/48/000000/inheritance.png)
 
 - Basics of Inheritance
 - Types of Inheritance
@@ -47,7 +44,6 @@
 ---
 
 ### [Polymorphism]()
-![Polymorphism](https://img.icons8.com/color/48/000000/polymorphism.png)
 
 - Method Overloading
 - Method Overriding
@@ -57,7 +53,6 @@
 ---
 
 ### [Encapsulation]()
-![Encapsulation](https://img.icons8.com/color/48/000000/encapsulation.png)
 
 - Data Hiding
 - Access Modifiers
@@ -66,7 +61,6 @@
 ---
 
 ### [Abstraction]()
-![Abstraction](https://img.icons8.com/color/48/000000/abstraction.png)
 
 - Abstract Classes
 - Abstract Methods
@@ -74,7 +68,6 @@
 ---
 
 ### [Interfaces]()
-![Interfaces](https://img.icons8.com/color/48/000000/interface.png)
 
 - Defining Interfaces
 - Implementing Interfaces
